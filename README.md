@@ -18,10 +18,22 @@ Para prácticas de persistencia es recomendable una máquina virtual Kali Linux 
 
 [GTFOBins](https://gtfobins.github.io/)
 
-[LinEnum](https://github.com/rebootuser/LinEnum)
+[Sagi Shahar - LPE Worksshop](https://github.com/sagishahar/lpeworkshop)
 
-[linux-smart-enumeration](https://github.com/rebootuser/LinEnum)
+[C0nd4 - mimd map LPE](https://github.com/C0nd4/OSCP-Priv-Esc)
 
-[Linux Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester)
+Herramientas de enumeración:
+- [Linux Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester)
+- [LinPEAS - Linux Privilege Escalation Awesome Script](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
+- [LinEnum](https://github.com/rebootuser/LinEnum)
+- [linux-smart-enumeration](https://github.com/rebootuser/LinEnum)
 
-[LinPEAS - Linux Privilege Escalation Awesome Script](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
+En caso de problemas de acceso por ssh desde Kali:
+```
+kali@kali:~$ nano .ssh/config 
+HostKeyAlgorithms ssh-rsa
+PubkeyAcceptedKeyTypes ssh-rsa
+```
+RRSS:
+- twitter: [@ManuelGRegal](https://twitter.com/@ManuelGRegal)
+- Youtube: [https://www.youtube.com/@ManuelGRegal](https://www.youtube.com/@ManuelGRegal)
