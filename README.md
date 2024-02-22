@@ -2,7 +2,7 @@
 
 **Máquina virtual LPEP.ova:**
 En Virtualbox: Menú Archivo --> importar servicio virtualizado
-- mirror#1: [LPEP.ova](https://drive.google.com/file/d/1dTq2rq3cpb-1v5lMf6YWj-vq7bQbKj3A/view?usp=sharing).
+- mirror#1: [LPEP.ova](https://drive.google.com/file/d/1dTq2rq3cpb-1v5lMf6YWj-vq7bQbKj3A/view?usp=sharing)
 - mirror#2: [LPEP.ova](https://drive.google.com/file/d/1qb-78PQYAILP3DXBbjRLEPGKgl6ncxDz/view?usp=sharing)
 - md5sum: 251c9578ad0914fd82417f8859f4411a
 
@@ -12,7 +12,7 @@ Para prácticas de persistencia es recomendable una máquina virtual Kali Linux 
 
 **Máquina virtual Dump1.ova:**
 En Virtualbox: Menú Archivo --> importar servicio virtualizado
-- mirror#1: [Dump1.ova](https://drive.google.com/file/d/1RlJ0EHfkfrNYbEJjBbcbhSZqVj53AVOp/view?usp=sharing).
+- mirror#1: [Dump1.ova](https://drive.google.com/file/d/1RlJ0EHfkfrNYbEJjBbcbhSZqVj53AVOp/view?usp=sharing)
 - mirror#2: [Dump1.ova](https://drive.google.com/file/d/1RlJ0EHfkfrNYbEJjBbcbhSZqVj53AVOp/view?usp=sharing)
 - md5sum: d36b1f13cd7a201855a243cec2b31a04
 
