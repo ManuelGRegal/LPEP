@@ -10,6 +10,14 @@ Se trata de una máquina Linux Debian altamente vulnerable que al importarse se 
 
 Para prácticas de persistencia es recomendable una máquina virtual Kali Linux conectada a la misma red Host-only que LPEP o tener un cliente ssh y netcat o ncat en el equipo anfitrión
 
+**Máquina virtual Dump1.ova:**
+En Virtualbox: Menú Archivo --> importar servicio virtualizado
+- mirror#1: [Dump1.ova](https://drive.google.com/file/d/1RlJ0EHfkfrNYbEJjBbcbhSZqVj53AVOp/view?usp=sharing).
+- mirror#2: [Dump1.ova](https://drive.google.com/file/d/1RlJ0EHfkfrNYbEJjBbcbhSZqVj53AVOp/view?usp=sharing)
+- md5sum: d36b1f13cd7a201855a243cec2b31a04
+
+Se trata de una máquina Linux Debian creada a partir de la máquina Dump de [VulNyx](https://vulnyx.com), altamente vulnerable que al importarse se conecta a una red Host-only por defecto, y de esta forma no tendrá acceso al exterior ni del exterior (recomendado).
+
 **Enlaces de interés:**
 
 [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
