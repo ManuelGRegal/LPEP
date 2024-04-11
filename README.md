@@ -51,6 +51,14 @@ kali@kali:~$ sudo nano /etc/ssh/ssh_config
 HostKeyAlgorithms = +ssh-rsa
 PubkeyAcceptedAlgorithms = +ssh-rsa
 ```
+O
+```
+kali@kali:~$ nano .ssh/config
+Host *
+HostKeyAlgorithms +ssh-rsa
+PubkeyAcceptedAlgorithms +ssh-rsa
+```
+
 RRSS:
 - twitter: [@ManuelGRegal](https://twitter.com/@ManuelGRegal)
 - Youtube: [https://www.youtube.com/@ManuelGRegal](https://www.youtube.com/@ManuelGRegal)
