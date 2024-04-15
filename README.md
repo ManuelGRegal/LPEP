@@ -18,6 +18,9 @@ En Virtualbox: Menú Archivo --> importar servicio virtualizado
 
 Se trata de una máquina Linux Debian creada a partir de la máquina Dump de [VulNyx](https://vulnyx.com), altamente vulnerable que al importarse se conecta a una red Host-only por defecto, y de esta forma no tendrá acceso al exterior ni del exterior (recomendado).
 
+**Diapositivas Taller ViCON 2024**
+- https://drive.google.com/file/d/1u6Wo6QuErhvYbVfLMKWN4Q4oWjBsFrxw/view?usp=sharing
+
 **Enlaces de interés:**
 
 [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
