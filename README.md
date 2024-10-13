@@ -8,8 +8,6 @@ En Virtualbox: Menú Archivo --> importar servicio virtualizado
 
 Se trata de una máquina Linux Debian altamente vulnerable que al importarse se conecta a una red Host-only por defecto, y de esta forma no tendrá acceso al exterior ni del exterior (recomendado).
 
-Para prácticas de persistencia es recomendable una máquina virtual Kali Linux conectada a la misma red Host-only que LPEP o tener un cliente ssh y netcat o ncat en el equipo anfitrión
-
 **Máquina virtual Dump1.ova:**
 En Virtualbox: Menú Archivo --> importar servicio virtualizado
 - mirror#1: [Dump1.ova](https://drive.google.com/file/d/1RlJ0EHfkfrNYbEJjBbcbhSZqVj53AVOp/view?usp=sharing)
@@ -17,6 +15,13 @@ En Virtualbox: Menú Archivo --> importar servicio virtualizado
 - md5sum: d36b1f13cd7a201855a243cec2b31a04
 
 Se trata de una máquina Linux Debian creada a partir de la máquina Dump de [VulNyx](https://vulnyx.com), altamente vulnerable que al importarse se conecta a una red Host-only por defecto, y de esta forma no tendrá acceso al exterior ni del exterior (recomendado).
+
+**Máquina virtual Arpon_Persistencia.ova:**
+Para prácticas de persistencia es recomendable una máquina virtual Kali Linux conectada a la misma red que Arpon_Persistencia o tener un cliente ssh y netcat o ncat en el equipo anfitrión.
+En Virtualbox: Menú Archivo --> importar servicio virtualizado
+- mirror#1: [Arpon_Persistencia.ova]([https://drive.google.com/file/d/1kcTwiICw2GqjgxYFGehBrtVtt_XtOvt3/view?usp=sharing)
+- mirror#2: [Arpon_Persistencia.ova](https://drive.google.com/file/d/1SHB-Es4TZQjjKR4cYycTuc4NrE0lkz_l/view?usp=sharing)
+- md5sum: 51e8b8800e0fd4ed28bf3e06e3f0815f
 
 **Enlaces de interés:**
 
