@@ -19,7 +19,7 @@ Se trata de una máquina Linux Debian creada a partir de la máquina Dump de [Vu
 **Máquina virtual Arpon_Persistencia.ova:**
 Para prácticas de persistencia es recomendable una máquina virtual Kali Linux conectada a la misma red que Arpon_Persistencia o tener un cliente ssh y netcat o ncat en el equipo anfitrión.
 En Virtualbox: Menú Archivo --> importar servicio virtualizado
-- mirror#1: [Arpon_Persistencia.ova]([https://drive.google.com/file/d/1kcTwiICw2GqjgxYFGehBrtVtt_XtOvt3/view?usp=sharing)
+- mirror#1: [Arpon_Persistencia.ova](https://drive.google.com/file/d/1kcTwiICw2GqjgxYFGehBrtVtt_XtOvt3/view?usp=sharing)
 - mirror#2: [Arpon_Persistencia.ova](https://drive.google.com/file/d/1SHB-Es4TZQjjKR4cYycTuc4NrE0lkz_l/view?usp=sharing)
 - md5sum: 51e8b8800e0fd4ed28bf3e06e3f0815f
 
